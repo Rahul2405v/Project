@@ -28,7 +28,7 @@ pip install pandas numpy scikit-learn flask
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rahul2405v/Project.git
    ```
 
 2. **Download the Dataset**
